@@ -2436,8 +2436,11 @@
    ]
   },
   {
-1   "cell_type": "code",
-<<<<<<< HEAD
+   "cell_type": "code",
+ "cell_type": "code",
+   "execution_count": null,
+   "id": "b1a4859a",
+   "metadata": {},<<<<<<< HEAD
    "execution_count": 20,
    "id": "feb0b9df",
 =======
